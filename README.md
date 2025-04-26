@@ -29,7 +29,7 @@ bash
 Copy
 Edit
 git clone https://github.com/rog05/text-to-math.git
-cd text-to-math
+//cd text-to-math
 Install required packages
 
 bash
